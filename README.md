@@ -19,3 +19,5 @@ npm run dev
 # сборка для продакшн с минификацией
 npm run build
 ```
+
+test1
