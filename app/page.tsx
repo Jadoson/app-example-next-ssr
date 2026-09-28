@@ -14,7 +14,7 @@ export default async function Home() {
       }}
     >
       <h1 style={{ margin: 0, fontSize: "1.75rem", fontWeight: 600 }}>
-          Hello-world
+          test 
       </h1>
       <p style={{ margin: 0, color: "#555", fontSize: "1rem" }}>
         Отрисовано на сервере (SSR).
